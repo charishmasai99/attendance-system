@@ -13,7 +13,7 @@
 
 <br/>
 
-**AttendEase** is a fully browser-based attendance management system for students — no backend, no setup, no friction. Built with vanilla HTML, CSS, and JavaScript, it delivers real-time tracking, rich analytics, and clean reporting right from `index.html`.
+**TrackMyClass** is a fully browser-based attendance management system for students — no backend, no setup, no friction. Built with vanilla HTML, CSS, and JavaScript, it delivers real-time tracking, rich analytics, and clean reporting right from `index.html`.
 
 <br/>
 
